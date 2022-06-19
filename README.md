@@ -1,2 +1,2 @@
 # kaggle-notebooks
- my solutions to kaggle notebooks
+* My solutions to the kaggle competitions 
